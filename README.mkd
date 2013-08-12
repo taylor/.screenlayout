@@ -1,0 +1,7 @@
+These scripts are for setting up displays in various ways.  You could easily have one called from ~/.xinitrc or whatever.
+
+I run ~/.screenlayout/laptop-only.sh when unplugging from external displays.
+
+They could all be tied into the plugdev stuff for automation.
+
+I am not calling disper from the scripts but instead just type ```disper -e``` manually.
