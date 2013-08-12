@@ -5,3 +5,5 @@ I run ~/.screenlayout/laptop-only.sh when unplugging from external displays.
 They could all be tied into the plugdev stuff for automation.
 
 I am not calling disper from the scripts but instead just type ```disper -e``` manually.
+
+I recommend lxrandr as backup (or for generating similar script files).
